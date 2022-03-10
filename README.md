@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Sonia 👋
 
 <!--
 **sonia0409/sonia0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
