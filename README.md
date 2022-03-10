@@ -1,5 +1,5 @@
 ## Hi I'm Sonia 👋
-### I'm Full stack web developer / Software Developer, Part-time maths tutor!
+### A Full stack web developer / Software Developer, Part-time maths tutor!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonia0409&label=Profile%20views&color=0e75b6&style=flat" alt="sonia0409" /> </p>
 
