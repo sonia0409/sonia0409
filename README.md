@@ -1,6 +1,5 @@
 ### Hi I'm Sonia 👋
 Full stack web developer / Software Developer
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sonia0409/sonia0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
