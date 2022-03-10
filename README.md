@@ -1,5 +1,5 @@
 ### Hi I'm Sonia 👋
-
+Full stack web developer / Software Developer
 <!--
 **sonia0409/sonia0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
