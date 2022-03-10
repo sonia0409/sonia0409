@@ -10,19 +10,3 @@
 - 💬 Ask me about Javascript, Full Stack development
 - 😄 Pronouns: her/she
 
-
-<!--
-**sonia0409/sonia0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on creating cool websites or apps!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Javascript, Full Stack development
-- 📫 How to reach me: ...
-- 😄 Pronouns: her/she
-- ⚡ Fun fact: ...
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
--->
