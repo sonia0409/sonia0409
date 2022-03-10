@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sonia.singh0409)](https://medium.com/me/stories/public)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sonia.singh0409@gmail.com)](mailto:sonia.singh0409@gmail.com)
 
-- 🔭 I’m currently working on my website
+- 🔭 I’m currently working on my portfolio
 - 👯 I’m looking to collaborate on creating cool websites or apps!
 - 💬 Ask me about Javascript, Full Stack development
 - 😄 Pronouns: her/she
