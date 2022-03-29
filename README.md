@@ -7,7 +7,6 @@
 [![Medium Badge](https://img.shields.io/badge/-medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sonia.singh0409)](https://medium.com/me/stories/public)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sonia.singh0409@gmail.com)](mailto:sonia.singh0409@gmail.com)
 
-// 🔭 I’m currently working on server-side project
 - 👯 I’m looking to collaborate on creating cool websites or apps!
 - 💬 Ask me about Javascript, Full Stack development
 - 😄 Pronouns: her/she
@@ -17,6 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonia0409&show_icons=true&locale=en&layout=compact" alt="sonia0409" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonia0409&show_icons=true&locale=en" alt="sonia0409" /></p>
+<!--
+ - 🔭 I’m currently working on server-side project<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonia0409&show_icons=true&locale=en" alt="sonia0409" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonia0409&" alt="sonia0409" /></p> -->
